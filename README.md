@@ -30,7 +30,7 @@ Presented on 8 May 2019
 |2 | Visualizing a Galactic Dark Matter Simulation | Alpha Sanneh, Sihan Yuan, Will Claybaugh, and Kaley Brauer | [GitHub](https://github.com/kaleybrauer/galactic-vis), [Website](https://kaleybrauer.github.io/galactic-vis/) |
 |3 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |4 | Parallel Newton Step for the SCOPF problem | Srivatsan Srinivasan, Aditya Karan, Cory Williams, Manish Reddy Vuyyuru| [GitHub](https://github.com/Srivatsan-Srinivasan/cs205-final-project), [Website](https://srivatsan-srinivasan.github.io/cs205-final-project/) |
-|5 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|5 | Thunderstruct | Nick Pagel, Jonathan Guillotte-Blouin, Santiago Vargas | [GitHub](https://github.com/jonathanGB/CS205-Project), [Website](https://jonathanGB.com/CS205-project) |
 |6 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/) 
 |8 | Large-Scale Distributed Sentiment Analysis With RNNs | Jianzhun Du, Rong Liu, Matteo Zhang, Yan Zhao | [GitHub](https://github.com/Duuuuuu/Large-Scale-Distributed-Sentiment-Analysis-with-RNNs), [Website](https://sophieyanzhao.github.io) |
