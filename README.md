@@ -26,17 +26,18 @@ Presented on 8 May 2019
 
 | Group Number | Project Title | Team | Website
 | ------------ | --------- | --------- | -------- |
-|1 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|1 | Real-Time Crowd Dynamics | Daniel Inge, Maddy Nakada, Raymond Lin, Stephen Slater, William Fu | [GitHub](https://github.com/stephenslater/Crowd-Dynamics), [Website](https://stephenslater.github.io/Crowd-Dynamics/) |
 |2 | Visualizing a Galactic Dark Matter Simulation | Alpha Sanneh, Sihan Yuan, Will Claybaugh, and Kaley Brauer | [GitHub](https://github.com/kaleybrauer/galactic-vis), [Website](https://kaleybrauer.github.io/galactic-vis/) |
-|3 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|3 | Parallel YouTube Classification | Filip Michalsky, Dylan Randle, Tommy Hill, Paxton Maeder-York | [GitHub](https://github.com/filip-michalsky/cs205_spring19_final_project), [Website](https://cs205youtubeteam.github.io/index.html) |
 |4 | Parallel Newton Step for the SCOPF problem | Srivatsan Srinivasan, Aditya Karan, Cory Williams, Manish Reddy Vuyyuru| [GitHub](https://github.com/Srivatsan-Srinivasan/cs205-final-project), [Website](https://srivatsan-srinivasan.github.io/cs205-final-project/) |
-|5 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|5 | Thunderstruct | Nick Pagel, Jonathan Guillotte-Blouin, Santiago Vargas | [GitHub](https://github.com/jonathanGB/CS205-Project), [Website](https://github.com/jonathanGB/CS205-project/blob/master/docs/index.md) |
 |6 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
-|7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/) 
+|7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/)
 |8 | Large-Scale Distributed Sentiment Analysis With RNNs | Jianzhun Du, Rong Liu, Matteo Zhang, Yan Zhao | [GitHub](https://github.com/Duuuuuu/Large-Scale-Distributed-Sentiment-Analysis-with-RNNs), [Website](https://sophieyanzhao.github.io) |
-|9 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|9 | Parallel Echo State Networks | Zachary Blanks, Cedric Flamant, Elizabeth Lim, Zhai Yi | [GitHub](https://github.com/zblanks/parallel_esn), [Website](https://rednotion.github.io/parallel_esn_web/) |
 |10 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
-|11 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|11 | Parallelized Amazon Recommendation System based on Spark and OpenMP | Zhaohong Jin, Zheyu Wu, Abhimanyu Vasishth, Yuhao Lu | [GitHub](https://github.com/JinZhaoHong/cs205_amazon_recommendation), [Website](https://cs205-group11.github.io/amazon-recommendation-system/) |
 |12 | Parallelized analysis of CRISPR genetic screens | Bhaven Patel, Rory Maizels, Hugo Ramambason | [GitHub](https://github.com/rohuba/PACS), [Website](https://rohuba.github.io/PACS/) |
 |13 | Parallel Simulation of Federated Learning | Danyun He, Xin Dong, Meng Dong, Ziao Lin | [GitHub](https://github.com/m7dong/Octopy), [Website](https://www.meng-dong.me/Octopy/)|
-|14 | Your_Project_Title | William Burke, Drake Deuel, Esmail Fadae, Jamila Pegues | [GitHub](https://github.com/ddeuel/CS205), [Website](https://github.com/ddeuel/CS205) |
+|14 | Space Chemistry | William Burke, Drake Deuel, Esmail Fadae, Jamila Pegues | [GitHub](https://github.com/ddeuel/CS205), [Website](https://github.com/ddeuel/CS205) |
+|15 | Bayesian Additive Regression Trees (BART) using Spark and CUDA | Beau Coker, Patrick Emedom-Nnamdi, Isabella Grabski, Hali Hambridge, Matthew Quinn | [GitHub](https://github.com/phimb/CS205-FinalProject/), [Website](https://github.com/phimb/CS205-FinalProject/) |
