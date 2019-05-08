@@ -40,3 +40,4 @@ Presented on 8 May 2019
 |12 | Parallelized analysis of CRISPR genetic screens | Bhaven Patel, Rory Maizels, Hugo Ramambason | [GitHub](https://github.com/rohuba/PACS), [Website](https://rohuba.github.io/PACS/) |
 |13 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |14 | Space Chemistry | William Burke, Drake Deuel, Esmail Fadae, Jamila Pegues | [GitHub](https://github.com/ddeuel/CS205), [Website](https://github.com/ddeuel/CS205) |
+|15 | Bayesian Additive Regression Trees (BART) using Spark and CUDA | Beau Coker, Patrick Emedom-Nnamdi, Isabella Grabski, Hali Hambridge, Matthew Quinn | [GitHub](https://github.com/phimb/CS205-FinalProject/), [Website](https://github.com/phimb/CS205-FinalProject/) |
