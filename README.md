@@ -26,7 +26,7 @@ Presented on 8 May 2019
 
 | Group Number | Project Title | Team | Website
 | ------------ | --------- | --------- | -------- |
-|1 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|1 | Real-Time Crowd Dynamics | Daniel Inge, Maddy Nakada, Raymond Lin, Stephen Slater, William Fu | [GitHub](https://github.com/stephenslater/Crowd-Dynamics), [Website](https://stephenslater.github.io/Crowd-Dynamics/) |
 |2 | Visualizing a Galactic Dark Matter Simulation | Alpha Sanneh, Sihan Yuan, Will Claybaugh, and Kaley Brauer | [GitHub](https://github.com/kaleybrauer/galactic-vis), [Website](https://kaleybrauer.github.io/galactic-vis/) |
 |3 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |4 | Parallel Newton Step for the SCOPF problem | Srivatsan Srinivasan, Aditya Karan, Cory Williams, Manish Reddy Vuyyuru| [GitHub](https://github.com/Srivatsan-Srinivasan/cs205-final-project), [Website](https://srivatsan-srinivasan.github.io/cs205-final-project/) |
