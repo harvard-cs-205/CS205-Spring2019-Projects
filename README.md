@@ -34,7 +34,7 @@ Presented on 8 May 2019
 |6 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/) 
 |8 | Large-Scale Distributed Sentiment Analysis With RNNs | Jianzhun Du, Rong Liu, Matteo Zhang, Yan Zhao | [GitHub](https://github.com/Duuuuuu/Large-Scale-Distributed-Sentiment-Analysis-with-RNNs), [Website](https://sophieyanzhao.github.io) |
-|9 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|9 | Parallel Echo State Networks | Zachary Blanks, Cedric Flamant, Elizabeth Lim, Zhai Yi | [GitHub](https://github.com/zblanks/parallel_esn), [Website](https://rednotion.github.io/parallel_esn_web/) |
 |10 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |11 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |12 | Parallelized analysis of CRISPR genetic screens | Bhaven Patel, Rory Maizels, Hugo Ramambason | [GitHub](https://github.com/rohuba/PACS), [Website](https://rohuba.github.io/PACS/) |
