@@ -28,11 +28,11 @@ Presented on 8 May 2019
 | ------------ | --------- | --------- | -------- |
 |1 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |2 | Visualizing a Galactic Dark Matter Simulation | Alpha Sanneh, Sihan Yuan, Will Claybaugh, and Kaley Brauer | [GitHub](https://github.com/kaleybrauer/galactic-vis), [Website](https://kaleybrauer.github.io/galactic-vis/) |
-|3 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|3 | Parallel YouTube Classification | Filip Michalsky, Dylan Randle, Tommy Hill, Paxton Maeder-York | [GitHub](https://github.com/filip-michalsky/cs205_spring19_final_project), [Website](https://cs205youtubeteam.github.io/index.html) |
 |4 | Parallel Newton Step for the SCOPF problem | Srivatsan Srinivasan, Aditya Karan, Cory Williams, Manish Reddy Vuyyuru| [GitHub](https://github.com/Srivatsan-Srinivasan/cs205-final-project), [Website](https://srivatsan-srinivasan.github.io/cs205-final-project/) |
 |5 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |6 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
-|7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/) 
+|7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/)
 |8 | Large-Scale Distributed Sentiment Analysis With RNNs | Jianzhun Du, Rong Liu, Matteo Zhang, Yan Zhao | [GitHub](https://github.com/Duuuuuu/Large-Scale-Distributed-Sentiment-Analysis-with-RNNs), [Website](https://sophieyanzhao.github.io) |
 |9 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |10 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
