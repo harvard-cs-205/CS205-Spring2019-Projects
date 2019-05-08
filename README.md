@@ -38,4 +38,4 @@ Presented on 8 May 2019
 |11 | Parallelized Amazon Recommendation System based on Spark and OpenMP | Zhaohong Jin, Zheyu Wu, Abhimanyu Vasishth, Yuhao Lu | [GitHub](https://github.com/JinZhaoHong/cs205_amazon_recommendation), [Website](https://cs205-group11.github.io/amazon-recommendation-system/) |
 |12 | Parallelized analysis of CRISPR genetic screens | Bhaven Patel, Rory Maizels, Hugo Ramambason | [GitHub](https://github.com/rohuba/PACS), [Website](https://rohuba.github.io/PACS/) |
 |13 | Parallel Simulation of Federated Learning | Danyun He, Xin Dong, Meng Dong, Ziao Lin | [GitHub](https://github.com/m7dong/Octopy), [Website](https://www.meng-dong.me/Octopy/)|
-|14 | Space Chemistry | William Burke, Drake Deuel, Esmail Fadae, Jamila Pegues | [GitHub](https://github.com/ddeuel/CS205), [Website](https://github.com/ddeuel/CS205) |
+|14 | Space Chemistry | William Burke, Drake Deuel, Esmail Fadae, Jamila Pegues | [GitHub](https://github.com/ddeuel/CS205), [Website](https://github.com/ddeuel/CS205/blob/master/CS_205_Project_Write_Up.pdf) |
