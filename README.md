@@ -33,10 +33,10 @@ Presented on 8 May 2019
 |5 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |6 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |7 | Density Equalizing Maps | Millie Zhou, Benedikt Groever, Baptiste Lemaire | [GitHub](https://github.com/BGroever/DEM), [Website](https://milliezhou.github.io/cartogram/) 
-|8 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|8 | Large-Scale Distributed Sentiment Analysis With RNNs | Jianzhun Du, Rong Liu, Matteo Zhang, Yan Zhao | [GitHub](https://github.com/Duuuuuu/Large-Scale-Distributed-Sentiment-Analysis-with-RNNs), [Website](https://sophieyanzhao.github.io) |
 |9 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |10 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |11 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |12 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |13 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
-|14 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|14 | Your_Project_Title | William Burke, Drake Deuel, Esmail Fadae, Jamila Pegues | [GitHub](https://github.com/ddeuel/CS205), [Website](https://github.com/ddeuel/CS205) |
