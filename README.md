@@ -36,7 +36,7 @@ Presented on 8 May 2019
 |8 | Large-Scale Distributed Sentiment Analysis With RNNs | Jianzhun Du, Rong Liu, Matteo Zhang, Yan Zhao | [GitHub](https://github.com/Duuuuuu/Large-Scale-Distributed-Sentiment-Analysis-with-RNNs), [Website](https://sophieyanzhao.github.io) |
 |9 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |10 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
-|11 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|11 | Parallelized Amazon Recommendation System based on Spark and OpenMP | Zhaohong Jin, Zheyu Wu, Abhimanyu Vasishth, Yuhao Lu | [GitHub](https://github.com/JinZhaoHong/cs205_amazon_recommendation), [Website](https://cs205-group11.github.io/amazon-recommendation-system/) |
 |12 | Parallelized analysis of CRISPR genetic screens | Bhaven Patel, Rory Maizels, Hugo Ramambason | [GitHub](https://github.com/rohuba/PACS), [Website](https://rohuba.github.io/PACS/) |
 |13 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |14 | Your_Project_Title | William Burke, Drake Deuel, Esmail Fadae, Jamila Pegues | [GitHub](https://github.com/ddeuel/CS205), [Website](https://github.com/ddeuel/CS205) |
